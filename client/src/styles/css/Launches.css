@@ -1,0 +1,32 @@
+.main .title-row {
+  margin-bottom: 2em;
+  padding-top: 3em;
+}
+
+.main .title-row .title-col {
+  display: flex;
+  justify-content: center;
+}
+
+.main .title-row .title-col h1 {
+  font-size: 5rem;
+  color: #EDF1FF;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.main .cards-row {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.main .cards-row .cards-col {
+  display: flex;
+  justify-content: center;
+  padding: 2em;
+}
+
+.loader {
+  display: grid;
+  height: 100vh;
+  place-items: center;
+}

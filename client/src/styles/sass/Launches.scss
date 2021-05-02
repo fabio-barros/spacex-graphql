@@ -1,0 +1,41 @@
+.main {
+    
+
+    .title-row {
+        margin-bottom: 2em;
+        padding-top: 3em;
+        .title-col {
+            display: flex;
+            justify-content: center;
+            // border: 1px solid green;
+            h1 {
+                font-size: 5rem;
+                color: #EDF1FF;
+                font-family: "Ubuntu", sans-serif;
+            }
+        }
+    }
+    .cards-row {
+
+        // border: 1px solid red;
+        // background-color: black;
+        display: flex;
+        justify-content: space-evenly;
+        .cards-col {
+            // border: 1px solid red;
+            display: flex;
+            justify-content: center;
+            // align-items: center;
+            // text-align: center;
+            padding: 2em;
+            // margin-right: 1em;
+        }
+    }
+}
+
+ 
+    .loader {
+        display: grid;
+        height: 100vh;
+        place-items: center;
+    }

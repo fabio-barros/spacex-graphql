@@ -1,0 +1,78 @@
+.card-wrapper {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(auto-fit, 320px);
+  margin: 0;
+  padding: 0;
+}
+
+.card-wrapper h2 {
+  font-size: 1.5em;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.card-wrapper h5 {
+  font-size: 1.1em;
+}
+
+.card-wrapper h6 {
+  font-size: .8em;
+}
+
+.card-wrapper .card-row-1 {
+  background-color: rgba(213, 216, 210, 0.8);
+  background-color: rgba(237, 241, 255, 0.9);
+  border-radius: 2%;
+  padding: 1em 0;
+  box-shadow: -1px 1px 8px -1px rgba(0, 0, 0, 0.75);
+}
+
+.card-wrapper .card-row-1 .card-col-1 {
+  padding-right: 0;
+}
+
+.card-wrapper .card-row-1 .logo-col {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 0;
+  margin: 0;
+}
+
+.card-wrapper .card-row-1 .logo-col .mission-logo {
+  float: right;
+  width: 130px;
+  height: 100px;
+  object-fit: contain;
+}
+
+.card-wrapper .card-row-1 .logo-col .links {
+  width: 80%;
+  display: flex;
+  margin-top: 1em;
+  justify-content: space-evenly;
+}
+
+.card-wrapper .card-row-1 .links-col {
+  display: flex;
+  justify-self: center;
+  justify-content: space-evenly;
+}
+
+.card-wrapper .card-legend-row {
+  margin-top: 0.5em;
+}
+
+.card-wrapper .card-legend-row h6 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+.card-wrapper .card-legend-row p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+.a_tag {
+  color: inherit;
+}
