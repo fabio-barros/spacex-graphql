@@ -14,7 +14,7 @@ const LAUNCHES_QUERY = gql`
                 rocket_id
                 rocket_name
                 rocket_type
-            }
+            } 
             links {
                 mission_patch_small
                 article_link
