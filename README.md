@@ -22,4 +22,6 @@
 - [Cloud Functions](https://firebase.google.com/docs/functions)
 - [Firebase Hosting](https://firebase.google.com/docs/hosting)
 
+![SpaceX Demo](demo/spacexdemo.gif)
+
 ### 🚀 https://spacex-4bbd3.firebaseapp.com/
