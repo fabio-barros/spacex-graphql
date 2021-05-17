@@ -9,9 +9,7 @@
     "rewrites": [
       {
         "source": "**",
-        "function": "spacex"
-
-
+        "destination": "/index.html"
       }
     ]
   }

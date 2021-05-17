@@ -5,7 +5,7 @@ import LaunchesContextProvider from "../contexts/LaunchesContext";
 import Launches from "../components/Launches";
 
 const client = new ApolloClient({
-    uri: "/graphql",
+    uri: process.env.REACT_APP_HEROKU_SERVER,
 });
 
 const App = () => {
