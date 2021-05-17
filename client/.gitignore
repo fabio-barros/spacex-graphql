@@ -29,6 +29,6 @@ src/.firebaserc
 
 #css
 src/styles/css/*
-!src/css/.gitkeep
+!.gitkeep
 
 .env
