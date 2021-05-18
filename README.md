@@ -19,8 +19,9 @@
 -   [Express-GraphQL](https://github.com/graphql/express-graphql)
 -   [SpaceX API](https://docs.spacexdata.com/)
 -   [Axios](https://axios-http.com/)
--   [Cloud Functions](https://firebase.google.com/docs/functions)
+-   ~~[Firebase Functions](https://firebase.google.com/docs/functions)~~
 -   [Firebase Hosting](https://firebase.google.com/docs/hosting)
+-   [Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) 
 
 ![SpaceX Demo](demo/spacexdemo.gif)
 
