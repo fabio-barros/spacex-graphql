@@ -1,14 +1,14 @@
 # spacex-graphql
 
-<p> 🖥 Rastreador de lançamento de foguetes utilizando a  SpaceX API, GraphQL e Firebase Functions.   </p>
+<p> 🖥 SpaceX launches tracker using the SpaceX API, GraphQL, and Heroku.   </p>
 
-### ⚙️ Estrutura
+### ⚙️ Structure
 
 -   Client w/ React, Context API, Apollo Client ✔️
 -   Server w/ Node, Express, GraphQL, SpaceX API + ~~Firebase Functions~~ ➡️ Heroku ✔️
 -   Firebase Hosting ✔️
 
-### 🛠 Tecnologias
+### 🛠 Technologies
 
 -   [React](https://pt-br.reactjs.org/)
 -   [React Bootstrap](https://react-bootstrap.github.io/)
